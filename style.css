@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+#tudo, #topo, #menu, #conteudo, #rodape {
+    font-family: verdana;
+    font-size: 12;
+    color: #ffffff;
+    text-align: center;
+}
+
+#tudo {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#topo {
+    width: 800;
+    height: 200;
+    background-color: #800000;
+}
+
+#menu {
+    width: 220;
+    height: 300;
+    background-color: #D2691E;
+    float: left;
+}
+
+#conteudo {
+    width: 580;
+    height: 300;
+    background-color: #D2B48C;
+    float: right;
+}
+
+#rodape {
+    width: 800;
+    height: 30;
+    background-color: #4c4c4c;
+    clear: both;
+}
